@@ -6,10 +6,3 @@ def roll
    rand(1..6)
 end
 
-arr = ["apple" , "pear" , "orange", "melon"]
-
-def random_fruit
-  arr.sample
-end
-
-random_fruit
