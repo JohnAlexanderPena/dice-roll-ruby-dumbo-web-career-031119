@@ -9,4 +9,5 @@ end
 arr = ["apple" , "pear" , "orange", "melon"]
 
 def random_fruit
-  
+  arr.sample
+end
