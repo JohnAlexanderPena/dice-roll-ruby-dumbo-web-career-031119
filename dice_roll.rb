@@ -4,5 +4,5 @@
 
 def roll(num)
   puts rand(1..6)
-  num
+  num.to.i
 end
