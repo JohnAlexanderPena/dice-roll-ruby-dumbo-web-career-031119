@@ -6,4 +6,7 @@ def roll
    rand(1..6)
 end
 
-[apple, ]
+arr = ["apple" , "pear" , "orange", "melon"]
+
+def random_fruit
+  
